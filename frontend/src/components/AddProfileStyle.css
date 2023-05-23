@@ -1,0 +1,40 @@
+.input{
+    width: 40%;
+    height:3vw;
+
+}
+.input-box{
+    width: 100%;
+    padding: 12px 20px;
+    margin-left: 10px;
+    box-sizing: border-box;
+}
+.input-div{
+    width: 20vw;
+}
+.container-A{
+    display: contents;
+    width:100%;
+    align-items: center;
+    justify-content: center;
+}
+.input-box{
+    width: 60vw;
+    padding: 12px 20px;
+    margin-left: 10px;
+    box-sizing: border-box;
+}
+.input-div{
+    width: 10vw;
+    float: left;
+}
+
+.form-contain{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
