@@ -1,0 +1,106 @@
+
+.box{
+     margin:auto;
+     width:50vw;
+     border:2px solid #14141427;
+     background-color: #ffffffaa;
+     padding:20px;
+     border-radius: 25px;
+     margin-top: 5vw;
+        
+}
+
+.box1{
+     margin:auto;
+     width:1000px;
+     border:2px solid #14141427;
+     background-color: #bebebec7;
+     padding:20px;
+     border-radius: 25px;
+     margin: 100px;
+        
+}
+
+.navItem Button{
+     margin:1vw;
+     margin-left: 5vw;
+}
+.navItem Button:hover{
+     background-color: #14141427;
+     color: white;
+}
+.navItem Button:active{
+     transform: scale(1.2);
+}
+
+.container-ff{
+     margin: 0;
+     padding: 0;
+     width: 100%;
+     height: 100%;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     margin-top: 5vw;
+
+}
+.left-c{
+     padding-top: 3vw;
+     width:18vw ;
+     height:35vw ;
+     float: left;
+     border-radius: 1vw 0vw 0vw 1vw;
+     background: rgba( 255, 255, 255, 0.4 );
+ box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+ backdrop-filter: blur( 9.5px );
+ -webkit-backdrop-filter: blur( 9.5px );
+ border: 1px solid rgba( 255, 255, 255, 0.18 );
+ }
+ .right-c{
+     width:32vw ;
+     height:35vw ;
+     float: right;
+     border-radius: 0 1vw 1vw 0;
+     background: #FDDCDC;
+     box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+     backdrop-filter: blur( 18.5px );
+     -webkit-backdrop-filter: blur( 18.5px );
+     border: 1px solid rgb(255, 255, 255);
+ }
+ .avatar{
+     width: 10vw;
+     height: 10vw;
+     margin-left: 4vw;
+     margin-top: 0.2vw;
+ }
+ .input-Text{
+     margin-left: 3.9vw;
+ }
+.react-img:hover{
+     background-color: black;
+     width:1vw;
+     height: 1vw;
+     border-radius: 0.5vw;
+}
+.react-img:active{
+     background-color: black;
+}
+.input-Text-a{
+     margin-left: 3.9vw;
+     height: 5vw;
+ }
+ .react-img{
+     margin-left: 1vw;
+     font-size: 1.5vw;
+ }
+ .react{
+     margin-left: 5vw;
+
+ }
+ .submit-frm{
+     margin-left: 20vw;
+     margin-top: 0.2vw;
+     background-color: #FBAE3C;
+     color: black;
+     border: none;
+ }
